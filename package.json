@@ -36,6 +36,8 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"bits-ui": "^0.18.1",
+		"clerk-sveltekit": "^0.4.1",
 		"clsx": "^2.1.0",
 		"lucide-svelte": "^0.335.0",
 		"tailwind-merge": "^2.2.1",
